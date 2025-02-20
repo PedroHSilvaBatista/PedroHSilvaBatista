@@ -104,13 +104,6 @@ Olá! Meu meu nome é Pedro Henrique Silva Batista, tenho 19 anos e sou estudant
     src="https://github-readme-stats.vercel.app/api?username=PedroHSilvaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSilvaBatista&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
-
 <br clear="left"/>
 
 ## Redes de Contato 🌐
