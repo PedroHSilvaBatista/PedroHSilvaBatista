@@ -3,108 +3,36 @@
 ## Um pouco sobre mim:
 **`Engenheiro de Software`**
 
-Olá! Meu meu nome é Pedro Henrique Silva Batista, tenho 19 anos e sou estudante de Engenharia de Software. Sou uma pessoa apaixonada por tecnologia e para mim é uma enorme satisfação poder estudar uma área que tenho tanto carinho. Atualmente possuo uma maior familiaridade com tecnologias de desenvolvimento Back-End, mas pretendo também conhecer e me especializar em outros ramos da área. __Seja Bem-vindo ao meu perfil!__ :smiley:
+Olá! Meu meu nome é Pedro Henrique Silva Batista, tenho 20 anos e sou estudante de Engenharia de Software. Sou uma pessoa apaixonada por tecnologia e para mim é uma enorme satisfação poder estudar uma área que tenho tanto carinho. Atualmente possuo uma maior familiaridade com tecnologias de desenvolvimento Back-End, mas pretendo também conhecer e me especializar em outros ramos da área. __Seja Bem-vindo ao meu perfil!__ :smiley:
 
 ---
 
 ## Minhas Principais Linguagens e Frameworks :computer:
 
-<img 
-  align="left"
-  alt="Python"
-  title="Python"
-  width="40px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-  
-<img
-  align="left"
-  alt="Java"
-  title="Java"
-  width="40px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</p>
 
-<img
-  align="left"
-  alt="FastAPI"
-  title="FastAPI"
-  width="40px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-  />
-
-
-<img
-  align="left"
-  alt="Django"
-  title="Django"
-  width="40px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-  />
-
-<br/>
-<br/>
           
 ## Outras Tecnologias já utilizadas :computer:
 
 
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="40px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</p>
 
-
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="40px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-
- 
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="40px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-
-
-<img
-  align="left"
-  alt="C++"
-  title="C++"
-  width="40px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-  />
-          
-<br/>
-<br/>
-
-## Minhas estatísticas GitHub 📊
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=PedroHSilvaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<br clear="left"/>
 
 ## Redes de Contato 🌐
 
