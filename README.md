@@ -7,7 +7,7 @@ Olá! Meu meu nome é Pedro Henrique Silva Batista, tenho 20 anos e sou estudant
 
 ---
 
-## Minhas Principais Linguagens e Frameworks :computer:
+## Principais Tecnologias Utilizadas :computer:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
